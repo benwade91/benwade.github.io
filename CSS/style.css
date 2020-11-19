@@ -1,0 +1,30 @@
+
+.header {
+    text-align: center;
+    color: white;
+    background-color: #495464;
+    padding: 5px;
+}
+.content {
+    margin: 40px;
+}
+.bio {
+    display: inline-block;
+    width: 65%;
+}
+.bio img {
+    float: left;
+    padding-right: 20px;
+    height: 200px;
+}
+.bio p {
+    padding: 0 60px;
+}
+
+.contact {
+    float: right;
+    width: 35%;
+}
+.contact a {
+    color: red;
+}
